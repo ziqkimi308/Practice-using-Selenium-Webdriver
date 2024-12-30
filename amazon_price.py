@@ -1,4 +1,3 @@
-# import time
 from selenium import webdriver
 # Some libraries, like selenium, don’t automatically expose everything in their submodules. You need to import specific submodules or classes directly
 from selenium.webdriver.chrome.service import Service
